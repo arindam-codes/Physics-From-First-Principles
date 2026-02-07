@@ -2,9 +2,10 @@
 
 # 📘 README — Chapter 2: Newton’s Laws
 
-**Book:** *An Introduction to Mechanics*
+**Book:** *An Introduction to Mechanics* (Kleppner & Kolenkow)
 **Duration:** 4 Days
-**Goal:** Master Newtonian mechanics by **studying sections + solving all related problems per day**, CS50-style (concept → equations → execution).
+**Goal:** Master Newtonian mechanics by **studying sections + solving all related problems per day**, CS50-style
+*(concept → equations → execution)*
 
 ---
 
@@ -19,9 +20,10 @@ Every problem is treated like a program:
 3. Draw **force diagrams**
 4. Write **ΣF = ma**
 5. Add **constraints**
-6. Solve
+6. Solve symbolically
+7. Sanity-check results
 
-If equations feel messy → system definition is wrong.
+If equations feel messy → the system definition is wrong.
 
 ---
 
@@ -31,11 +33,11 @@ If equations feel messy → system definition is wrong.
 
 * Introduction
 * Newtonian Mechanics and Modern Physics
-* 2.1 Newton’s Laws
-* 2.2 Newton’s First Law & Inertial Frames
-* 2.3 Newton’s Second Law
-* 2.5.1 Mass
-* 2.5.2 Force
+* **2.1** Newton’s Laws
+* **2.2** Newton’s First Law & Inertial Systems
+* **2.3** Newton’s Second Law
+* **2.5.1** Mass
+* **2.5.2** Force
 
 ### Problems
 
@@ -54,9 +56,9 @@ If equations feel messy → system definition is wrong.
 
 ### Sections
 
-* 2.6 Newton’s Third Law
-* 2.6.1 Fictitious Forces
-* 2.9 Applying Newton’s Laws
+* **2.6** Newton’s Third Law
+* **2.6.1** Fictitious Forces
+* **2.9** Applying Newton’s Laws
 
 ### Problems
 
@@ -73,17 +75,17 @@ If equations feel messy → system definition is wrong.
 
 ---
 
-## 🔵 DAY 3 — Circular Motion & Accelerating Frames
+## 🔵 DAY 3 — Circular Motion & Geometry-Based Dynamics
 
 ### Sections
 
-* 2.4 Circling particle and force
-* 2.6 Mass in cone
-* 2.10 Dynamics using polar coordinates
+* **2.4** Circling particle and force
+* **2.6** Mass in cone
+* **2.10** Dynamics Using Polar Coordinates
 
 ### Problems
 
-* **2.4** Circling particle
+* **2.4** Circling particle and force
 * **2.5** Concrete mixer
 * **2.6** Mass in cone
 * **2.11** Mass on accelerating wedge ★
@@ -91,8 +93,8 @@ If equations feel messy → system definition is wrong.
 ### Outcome
 
 * Centripetal acceleration clarity
-* Non-inertial frames
-* Geometry + dynamics fusion
+* Geometry-driven equations
+* Accelerating-frame intuition
 
 ---
 
@@ -100,8 +102,8 @@ If equations feel messy → system definition is wrong.
 
 ### Sections
 
-* 2.7 Base Units and Physical Standards
-* 2.8 Algebra of Dimensions
+* **2.7** Base Units and Physical Standards
+* **2.8** The Algebra of Dimensions
 
 ### Problems
 
@@ -116,7 +118,8 @@ If equations feel messy → system definition is wrong.
 ### Outcome
 
 * Dimensional analysis mastery
-* System-level intuition
+* System-level reasoning
+* Inequality + friction control
 * Exam-level confidence
 
 ---
